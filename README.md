@@ -8,10 +8,9 @@ A cross-platform (iOS / Android), selector/picker component for React Native tha
 <img src="https://raw.githubusercontent.com/d-a-n/react-native-modal-picker/master/docs/demo.gif" />
 
 ## Install
-
-```sh
-npm i react-native-modal-picker --save
-```
+### Use rnpm
+1. `npm install https://github.com/arunbaiswal/react-native-modal-picker.git --save`
+2. `rnpm link react-native-modal-picker`
 
 ## Usage
 
